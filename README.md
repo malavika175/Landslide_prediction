@@ -1,2 +1,2 @@
-# Landslide_prediction
+# Machine learning Driven Landslide Prediction System
  
